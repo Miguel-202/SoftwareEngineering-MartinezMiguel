@@ -1,0 +1,14 @@
+1.".gitignore": https://github.com/github/gitignore (Github) http://git-scm.com/docs/gitignore (Git)
+Here you specify intentionally a pattern or files that Git should ignore.
+
+2. "Tinode chat": https://github.com/tinode/chat
+It is a decentralized open-source chat software that can be used on your phone. I choose this one since you can send a pull request and help develop a new feature or fix bugs, and it would be exciting to help in some open source projects.
+
+3. "RAW \ UNRAWIFY": https://github.com/Stiggstogg/raw/commit/f65cf32ecac40f56fe8dd41d8368191824f72773
+It is a game in JS posted for a GameJam in 2022. I found the game has an exciting concept of having features being added as you play through.
+
+4. "CogVideo" : https://github.com/THUDM/CogVideo
+I find it interesting how this AI turns text into a video. Although it is a short text and makes only a 9-frame video, it could be exciting how this project improves over time.
+
+5. "Aseprite": https://github.com/aseprite/aseprites
+Aseprite begins as an open-source project; although it has changed its business model, this repository still holds the open-source part of Aspire. This software is a helpful tool for drawing pixel art sprites and using them later in games.
